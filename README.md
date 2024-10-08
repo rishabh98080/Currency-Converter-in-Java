@@ -3,7 +3,7 @@ Here, We are going to create a simple Currency Converter in Java that uses live 
 
 >I am using an API that is free from the website : https://www.exchangerate-api.com/
 
->I am using library that needs to be imported externally that is provided inside the lib folder.
+>I am using library that needs to be imported externally that needs to be put inside a lib folder.
 
 >Use these commands to use the lib.
       > javac -cp ".;lib/json.jar" CurrencyConverter.java   
